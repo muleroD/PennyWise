@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: br.com.mulero
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [app-name, control-panel, data, data-jpa, github-workflow-ci, gradle, h2, http-client, jdbc-hikari, junit, kotlin, kotlin-application, ksp, logback, management, micronaut-aot, micronaut-build, micronaut-http-validation, netty-server, openapi, properties, readme, security, security-annotations, security-jwt, serialization-jackson, shade, static-resources, validation]
